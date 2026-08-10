@@ -1,0 +1,8 @@
+Time=0  | A=0101 | B=0011 | Sel=000 | Result=1000 | Carry=0 | Zero=0
+Time=10 | A=1000 | B=0011 | Sel=001 | Result=0101 | Carry=1 | Zero=0
+Time=20 | A=1100 | B=1010 | Sel=010 | Result=1000 | Carry=0 | Zero=0
+Time=30 | A=1100 | B=1010 | Sel=011 | Result=1110 | Carry=0 | Zero=0
+Time=40 | A=1100 | B=1010 | Sel=100 | Result=0110 | Carry=0 | Zero=0
+Time=50 | A=1010 | B=0000 | Sel=101 | Result=0101 | Carry=0 | Zero=0
+Time=60 | A=1010 | B=0000 | Sel=110 | Result=0100 | Carry=1 | Zero=0
+Time=70 | A=1010 | B=0000 | Sel=111 | Result=0101 | Carry=0 | Zero=0
